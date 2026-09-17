@@ -53,10 +53,8 @@ r 2 2
 
 ## Screenshots
 
-> Add your screenshots to a `screenshots/` folder and update the filenames below.
-
 | Difficulty selection | First move | Mid-game | Game over |
 |---|---|---|---|
-| ![Difficulty selection](screenshots/poziomy.png) | ![First move](screenshots/PierwszyRuch.png) | ![Mid-game](screenshots/Ruch.png) | ![Game over](screenshots/Przegrana.png) |
+| ![Difficulty selection](screenshots/Poziomy.png) | ![First move](screenshots/PierwszyRuch.png) | ![Mid-game](screenshots/Ruch.png) | ![Game over](screenshots/Przegrana.png) |
 
 
